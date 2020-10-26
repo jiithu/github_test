@@ -1,0 +1,6 @@
+[submodule "Github_learning_26oct20"]
+	path = Github_learning_26oct20
+	url = https://github.com/jiithu/Github_learning_26oct20.git
+[submodule "portfolio_app"]
+	path = portfolio_app
+	url = https://github.com/jiithu/portfolio_app.git
